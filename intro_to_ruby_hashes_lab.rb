@@ -43,3 +43,4 @@ def update_counting_hash(hash, key)
   hash[key] ? hash[key] += 1 : hash[key] = 1
   hash
 end
+#  This is the Learn.co solution, but we haven't been introduced to the "?" and ":" syntax yet...unless I'm on crack.
